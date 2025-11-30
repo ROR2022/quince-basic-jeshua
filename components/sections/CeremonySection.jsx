@@ -121,7 +121,12 @@ export default function CeremonySection() {
                   <div className="text-5xl font-main-text mb-4 elegant-text-glow text-blue-700">
                     Ceremonia
                   </div>
-                  <h4 className={ceremonyCardVisible ? completeClass : basicClass}>
+                  <h4 
+                  style={{
+                    textShadow: '10px 10px 10px #FFFF00',
+                    //border: '2px solid #000',
+                  }}
+                  className={ceremonyCardVisible ? completeClass : basicClass}>
                     {ceremony.venue}
                   </h4>
                   <div className="flex items-center justify-center gap-2">
@@ -129,6 +134,10 @@ export default function CeremonySection() {
                     <span className="text-2xl font-medium elegant-text-glow">
                       {ceremony.time}
                     </span>
+                  </div>
+                  <div className="text-black">
+                    <h5>Reverendo</h5>
+                    <h2 className="text-2xl">Marco Antonio Elizalde</h2>
                   </div>
                   <p className="text-rose-900/80">
                     {ceremony.address}

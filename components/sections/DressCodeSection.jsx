@@ -112,7 +112,7 @@ export default function DressCodeSection() {
           
           {/* Subtítulo - Animación desde la derecha */}
           <p 
-            className={`text-2xl transition-all duration-700 delay-700 text-rose-900 font-bold ${
+            className={`text-2xl transition-all duration-700 delay-700 text-sky-700 font-bold ${
               isVisible 
                 ? 'opacity-100 translate-x-0' 
                 : 'opacity-0 translate-x-8'
