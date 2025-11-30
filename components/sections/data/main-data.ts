@@ -38,7 +38,7 @@ export const quinceMainData = {
     },
     madrinas:{
       madrina1: "Niña: Ivanna Elizabeth Garzón Román",
-      madrina2: "Tía: Yolanda Bousieguez Lizarraga",
+      madrina2: "Uvita Páez Lizarraga",
       backgroundVideo: "/video/bx1.mp4",
     },
     abuelos: {
@@ -210,11 +210,11 @@ export const quinceMainData = {
     backgroundVideo: "/video/bx1.mp4",
     giftsOptions: [
       {
-        id: "regaloSorpresa",
-        name: "Regalo Sorpresa",
-        icon: "🎁",
+        id: "lluviaDeSobres",
+        name: "Lluvia de Sobres",
+        icon: "💌",
         description:
-          "Un regalo sorpresa siempre es bienvenido y apreciado.",
+          "Si deseas contribuir con un regalo especial, una lluvia de sobres sería muy apreciada.",
         image: "/images/gifts/gift-box.png",
         link: "https://example.com/mesa-de-regalos",
       }
