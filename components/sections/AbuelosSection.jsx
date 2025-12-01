@@ -125,13 +125,13 @@ export default function AbuelosSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {maternos.abuelo}
                         </p>
                       </div>
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {maternos.abuela}
                         </p>
                       </div>
@@ -152,14 +152,14 @@ export default function AbuelosSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {paternos.abuelo}
                         </p>
                       </div>
                       
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {paternos.abuela}
                         </p>
                       </div>

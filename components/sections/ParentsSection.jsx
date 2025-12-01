@@ -142,13 +142,13 @@ export default function ParentsSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         <span className="text-lg">👨</span>
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {parents.father}
                         </p>
                       </div>
                       <div className="flex items-center justify-center space-x-2">
                         <span className="text-lg">👩</span>
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {parents.mother}
                         </p>
                       </div>
@@ -169,14 +169,14 @@ export default function ParentsSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         <span className="text-lg">🤵</span>
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {godparents.godfather}
                         </p>
                       </div>
                       
                       <div className="flex items-center justify-center space-x-2">
                         <span className="text-lg">👰</span>
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {godparents.godmother}
                         </p>
                       </div>

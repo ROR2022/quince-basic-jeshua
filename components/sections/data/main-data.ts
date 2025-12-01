@@ -168,7 +168,7 @@ export const quinceMainData = {
   dressCode:{
     title: "Código de Vestimenta",
     message: "¡Vístete para impresionar!",
-    subtitle: "Código de vestimenta formal - Azul cielo solo la quinceañera",
+    subtitle: "Código de vestimenta formal - Rojo solo la quinceañera",
     restriction: "Restricción: No niños",
     backgroundImage: "/images/dressCode1.png",
     backgroundVideo: "/video/bx2.mp4",

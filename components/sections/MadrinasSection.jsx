@@ -126,7 +126,7 @@ export default function MadrinasSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {madrina1}
                         </p>
                       </div>
@@ -148,7 +148,7 @@ export default function MadrinasSection() {
                     <div className="space-y-3">
                       <div className="flex items-center justify-center space-x-2">
                         
-                        <p className="text-xl font-main-text text-glow text-black">
+                        <p className="text-2xl font-main-text text-glow text-black">
                           {madrina2}
                         </p>
                       </div>
